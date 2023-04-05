@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MainStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginStart">168dp</item>
+        <item name="android:layout_marginTop">164dp</item>
+        <item name="android:layout_marginEnd">185dp</item>
+        <item name="android:layout_marginBottom">173dp</item>
+    </style>
+
+    <style name="MainStyle.PrimaryText">
+        <itme name="android:textColor">?attr/colorPrimary</itme>
+    </style>
+
+    <style name="MainStyle.SecondaryText">
+        <itme name="android:textColor">?attr/colorSecondaryVariant</itme>
+    </style>
+</resources>
